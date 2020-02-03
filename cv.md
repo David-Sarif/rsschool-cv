@@ -1,6 +1,6 @@
- ## Junior Frontend Develover
+## Junior Frontend Develover
 
- Ruslan, Bobreshov 
+Ruslan, Bobreshov 
 
 You can contact me:
 - via [VKontakte](https://vk.com/i_404_42) 
