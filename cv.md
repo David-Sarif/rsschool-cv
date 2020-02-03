@@ -18,3 +18,7 @@ Finished several projects from courses including:
 2. Basic HTML+CSS on [HtmlAcademy](https://htmlacademy.ru);
 
 3. Some starter JS courses.  
+
+Graduated Don State Technical University with masters degree.  
+
+English skills : Upper Intermediate. 
