@@ -1,0 +1,16 @@
+body{
+    background-color:#FFF8DC;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+.content{
+    position: relative;
+    width: 1024px;
+     margin-left: auto;
+    margin-right: auto;
+}
+.main-image{
+    border-radius: 200px;
+    height: 350px;
+    width: 350px;
+}
